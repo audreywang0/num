@@ -1,0 +1,3840 @@
+Number: 11025
+Sum of factors: 22971
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 3
+Mod 12 = 9
+Mod 13 = 1
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 9
+Mod 18 = 9
+Mod 19 = 5
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 3
+Mod 23 = 8
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 12285
+Sum of factors: 26880
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 9
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 11
+Mod 18 = 9
+Mod 19 = 11
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 9
+Mod 23 = 3
+Mod 24 = 21
+Mod 25 = 10
+
+
+Number: 16065
+Sum of factors: 34560
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 5
+Mod 12 = 9
+Mod 13 = 10
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 10
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 5
+Mod 23 = 11
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 17325
+Sum of factors: 38688
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 9
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 2
+Mod 18 = 9
+Mod 19 = 16
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 6
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 23625
+Sum of factors: 49920
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 8
+Mod 12 = 9
+Mod 13 = 4
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 12
+Mod 18 = 9
+Mod 19 = 8
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 19
+Mod 23 = 4
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 28665
+Sum of factors: 62244
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 10
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 3
+Mod 18 = 9
+Mod 19 = 13
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 21
+Mod 23 = 7
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 31185
+Sum of factors: 69696
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 11
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 7
+Mod 18 = 9
+Mod 19 = 6
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 20
+Mod 24 = 9
+Mod 25 = 10
+
+
+Number: 36225
+Sum of factors: 77376
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 2
+Mod 12 = 9
+Mod 13 = 7
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 15
+Mod 18 = 9
+Mod 19 = 11
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 13
+Mod 23 = 0
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 42525
+Sum of factors: 90272
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 10
+Mod 12 = 9
+Mod 13 = 2
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 8
+Mod 18 = 9
+Mod 19 = 3
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 21
+Mod 23 = 21
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 45045
+Sum of factors: 104832
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 12
+Mod 18 = 9
+Mod 19 = 15
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 11
+Mod 24 = 21
+Mod 25 = 20
+
+
+Number: 53865
+Sum of factors: 116160
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 9
+Mod 12 = 9
+Mod 13 = 6
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 9
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 9
+Mod 23 = 22
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 55125
+Sum of factors: 115596
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 4
+Mod 12 = 9
+Mod 13 = 5
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 11
+Mod 18 = 9
+Mod 19 = 6
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 15
+Mod 23 = 17
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 58905
+Sum of factors: 134784
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 2
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 5
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 2
+Mod 24 = 9
+Mod 25 = 5
+
+
+Number: 61425
+Sum of factors: 138880
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 1
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 4
+Mod 18 = 9
+Mod 19 = 17
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 1
+Mod 23 = 15
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 65205
+Sum of factors: 139392
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 8
+Mod 12 = 9
+Mod 13 = 10
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 10
+Mod 18 = 9
+Mod 19 = 16
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 19
+Mod 23 = 0
+Mod 24 = 21
+Mod 25 = 5
+
+
+Number: 70785
+Sum of factors: 145236
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 1
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 1
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 14
+Mod 18 = 9
+Mod 19 = 10
+Mod 20 = 5
+Mod 21 = 15
+Mod 22 = 11
+Mod 23 = 14
+Mod 24 = 9
+Mod 25 = 10
+
+
+Number: 72765
+Sum of factors: 164160
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 4
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 5
+Mod 18 = 9
+Mod 19 = 14
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 16
+Mod 24 = 21
+Mod 25 = 15
+
+
+Number: 74025
+Sum of factors: 154752
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 6
+Mod 12 = 9
+Mod 13 = 3
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 7
+Mod 18 = 9
+Mod 19 = 1
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 17
+Mod 23 = 11
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 77805
+Sum of factors: 174720
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 2
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 13
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 13
+Mod 23 = 19
+Mod 24 = 21
+Mod 25 = 5
+
+
+Number: 80325
+Sum of factors: 178560
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 3
+Mod 12 = 9
+Mod 13 = 11
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 12
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 3
+Mod 23 = 9
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 86625
+Sum of factors: 194688
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 6
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 10
+Mod 18 = 9
+Mod 19 = 4
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 7
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 87885
+Sum of factors: 185856
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 6
+Mod 12 = 9
+Mod 13 = 5
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 12
+Mod 18 = 9
+Mod 19 = 10
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 17
+Mod 23 = 2
+Mod 24 = 21
+Mod 25 = 10
+
+
+Number: 94185
+Sum of factors: 209664
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 3
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 5
+Mod 18 = 9
+Mod 19 = 2
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 3
+Mod 23 = 0
+Mod 24 = 9
+Mod 25 = 10
+
+
+Number: 95445
+Sum of factors: 195840
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 9
+Mod 12 = 9
+Mod 13 = 12
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 7
+Mod 18 = 9
+Mod 19 = 8
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 9
+Mod 23 = 18
+Mod 24 = 21
+Mod 25 = 20
+
+
+Number: 96525
+Sum of factors: 208320
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 2
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 9
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 16
+Mod 18 = 9
+Mod 19 = 5
+Mod 20 = 5
+Mod 21 = 9
+Mod 22 = 11
+Mod 23 = 17
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 99225
+Sum of factors: 213807
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 5
+Mod 12 = 9
+Mod 13 = 9
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 13
+Mod 18 = 9
+Mod 19 = 7
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 5
+Mod 23 = 3
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 100485
+Sum of factors: 224640
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 8
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 15
+Mod 18 = 9
+Mod 19 = 13
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 21
+Mod 24 = 21
+Mod 25 = 10
+
+
+Number: 101745
+Sum of factors: 224640
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 6
+Mod 12 = 9
+Mod 13 = 7
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 17
+Mod 23 = 16
+Mod 24 = 9
+Mod 25 = 20
+
+
+Number: 102465
+Sum of factors: 209088
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 6
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 12
+Mod 14 = 13
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 6
+Mod 18 = 9
+Mod 19 = 17
+Mod 20 = 5
+Mod 21 = 6
+Mod 22 = 11
+Mod 23 = 0
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 105105
+Sum of factors: 229824
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 11
+Mod 18 = 3
+Mod 19 = 16
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 18
+Mod 24 = 9
+Mod 25 = 5
+
+
+Number: 105525
+Sum of factors: 219232
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 2
+Mod 12 = 9
+Mod 13 = 4
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 6
+Mod 18 = 9
+Mod 19 = 18
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 13
+Mod 23 = 1
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 109725
+Sum of factors: 238080
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 6
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 5
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 7
+Mod 18 = 15
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 15
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 110565
+Sum of factors: 244608
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 4
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 14
+Mod 18 = 9
+Mod 19 = 4
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 15
+Mod 23 = 4
+Mod 24 = 21
+Mod 25 = 15
+
+
+Number: 114345
+Sum of factors: 255360
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 10
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 3
+Mod 18 = 9
+Mod 19 = 3
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 12
+Mod 24 = 9
+Mod 25 = 20
+
+
+Number: 116025
+Sum of factors: 249984
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 6
+Mod 10 = 5
+Mod 11 = 8
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 0
+Mod 18 = 15
+Mod 19 = 11
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 19
+Mod 23 = 13
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 116865
+Sum of factors: 240084
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 1
+Mod 12 = 9
+Mod 13 = 8
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 7
+Mod 18 = 9
+Mod 19 = 15
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 1
+Mod 23 = 2
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 121905
+Sum of factors: 255552
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 3
+Mod 12 = 9
+Mod 13 = 4
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 15
+Mod 18 = 9
+Mod 19 = 1
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 3
+Mod 23 = 5
+Mod 24 = 9
+Mod 25 = 5
+
+
+Number: 122265
+Sum of factors: 262080
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 3
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 3
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 1
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 3
+Mod 22 = 11
+Mod 23 = 20
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 123165
+Sum of factors: 269568
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 9
+Mod 12 = 9
+Mod 13 = 3
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 7
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 9
+Mod 23 = 0
+Mod 24 = 21
+Mod 25 = 15
+
+
+Number: 125685
+Sum of factors: 273600
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 10
+Mod 12 = 9
+Mod 13 = 1
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 4
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 21
+Mod 23 = 13
+Mod 24 = 21
+Mod 25 = 10
+
+
+Number: 126225
+Sum of factors: 267840
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 1
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 8
+Mod 14 = 1
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 8
+Mod 20 = 5
+Mod 21 = 15
+Mod 22 = 11
+Mod 23 = 1
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 126945
+Sum of factors: 279552
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 5
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 6
+Mod 18 = 9
+Mod 19 = 6
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 5
+Mod 23 = 8
+Mod 24 = 9
+Mod 25 = 20
+
+
+Number: 128205
+Sum of factors: 284544
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 12
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 8
+Mod 18 = 9
+Mod 19 = 12
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 3
+Mod 24 = 21
+Mod 25 = 5
+
+
+Number: 132825
+Sum of factors: 285696
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 4
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 4
+Mod 18 = 3
+Mod 19 = 15
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 0
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 133245
+Sum of factors: 278784
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 2
+Mod 12 = 9
+Mod 13 = 8
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 16
+Mod 18 = 9
+Mod 19 = 17
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 13
+Mod 23 = 6
+Mod 24 = 21
+Mod 25 = 20
+
+
+Number: 137025
+Sum of factors: 297600
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 9
+Mod 12 = 9
+Mod 13 = 5
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 5
+Mod 18 = 9
+Mod 19 = 16
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 9
+Mod 23 = 14
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 142065
+Sum of factors: 314496
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 1
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 13
+Mod 18 = 9
+Mod 19 = 2
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 17
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 143325
+Sum of factors: 321594
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 6
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 15
+Mod 18 = 9
+Mod 19 = 8
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 17
+Mod 23 = 12
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 144585
+Sum of factors: 314496
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 1
+Mod 12 = 9
+Mod 13 = 12
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 14
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 1
+Mod 23 = 7
+Mod 24 = 9
+Mod 25 = 10
+
+
+Number: 149625
+Sum of factors: 324480
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 3
+Mod 12 = 9
+Mod 13 = 8
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 8
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 3
+Mod 23 = 10
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 152145
+Sum of factors: 328320
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 4
+Mod 12 = 9
+Mod 13 = 6
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 12
+Mod 18 = 9
+Mod 19 = 12
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 15
+Mod 23 = 0
+Mod 24 = 9
+Mod 25 = 20
+
+
+Number: 153153
+Sum of factors: 314496
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 3
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 3
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 3
+Mod 16 = 1
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 13
+Mod 20 = 13
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 19
+Mod 24 = 9
+Mod 25 = 3
+
+
+Number: 155925
+Sum of factors: 360096
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 3
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 1
+Mod 18 = 9
+Mod 19 = 11
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 8
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 159705
+Sum of factors: 351360
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 7
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 7
+Mod 18 = 9
+Mod 19 = 10
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 7
+Mod 23 = 16
+Mod 24 = 9
+Mod 25 = 5
+
+
+Number: 159885
+Sum of factors: 336960
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 5
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 11
+Mod 14 = 5
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 12
+Mod 22 = 11
+Mod 23 = 12
+Mod 24 = 21
+Mod 25 = 10
+
+
+Number: 165165
+Sum of factors: 357504
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 6
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 10
+Mod 18 = 15
+Mod 19 = 17
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 2
+Mod 24 = 21
+Mod 25 = 15
+
+
+Number: 166005
+Sum of factors: 359424
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 4
+Mod 12 = 9
+Mod 13 = 8
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 2
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 15
+Mod 23 = 14
+Mod 24 = 21
+Mod 25 = 5
+
+
+Number: 169785
+Sum of factors: 374400
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 5
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 6
+Mod 18 = 9
+Mod 19 = 1
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 22
+Mod 24 = 9
+Mod 25 = 10
+
+
+Number: 170625
+Sum of factors: 349888
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 4
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 13
+Mod 18 = 3
+Mod 19 = 5
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 15
+Mod 23 = 11
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 173565
+Sum of factors: 374400
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 7
+Mod 12 = 9
+Mod 13 = 2
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 12
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 7
+Mod 23 = 7
+Mod 24 = 21
+Mod 25 = 15
+
+
+Number: 173745
+Sum of factors: 366912
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 5
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 5
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 5
+Mod 18 = 9
+Mod 19 = 9
+Mod 20 = 5
+Mod 21 = 12
+Mod 22 = 11
+Mod 23 = 3
+Mod 24 = 9
+Mod 25 = 20
+
+
+Number: 174825
+Sum of factors: 376960
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 2
+Mod 12 = 9
+Mod 13 = 1
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 14
+Mod 18 = 9
+Mod 19 = 6
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 13
+Mod 23 = 2
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 176085
+Sum of factors: 384384
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 8
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 16
+Mod 18 = 9
+Mod 19 = 12
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 19
+Mod 23 = 20
+Mod 24 = 21
+Mod 25 = 10
+
+
+Number: 179025
+Sum of factors: 380928
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 6
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 2
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 15
+Mod 18 = 15
+Mod 19 = 7
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 16
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 181125
+Sum of factors: 389376
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 10
+Mod 12 = 9
+Mod 13 = 9
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 7
+Mod 18 = 9
+Mod 19 = 17
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 21
+Mod 23 = 0
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 181545
+Sum of factors: 383040
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 6
+Mod 10 = 5
+Mod 11 = 1
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 2
+Mod 18 = 15
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 1
+Mod 23 = 6
+Mod 24 = 9
+Mod 25 = 20
+
+
+Number: 182325
+Sum of factors: 374976
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 3
+Mod 8 = 5
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 3
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 0
+Mod 18 = 3
+Mod 19 = 1
+Mod 20 = 5
+Mod 21 = 3
+Mod 22 = 11
+Mod 23 = 4
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 183645
+Sum of factors: 404352
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 7
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 11
+Mod 18 = 9
+Mod 19 = 10
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 13
+Mod 24 = 21
+Mod 25 = 20
+
+
+Number: 187425
+Sum of factors: 413478
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 7
+Mod 12 = 9
+Mod 13 = 4
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 9
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 7
+Mod 23 = 21
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 189945
+Sum of factors: 394944
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 8
+Mod 12 = 9
+Mod 13 = 2
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 4
+Mod 18 = 9
+Mod 19 = 2
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 19
+Mod 23 = 11
+Mod 24 = 9
+Mod 25 = 20
+
+
+Number: 192465
+Sum of factors: 419328
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 9
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 8
+Mod 18 = 9
+Mod 19 = 14
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 9
+Mod 23 = 1
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 193545
+Sum of factors: 404352
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 2
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 1
+Mod 14 = 9
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 11
+Mod 20 = 5
+Mod 21 = 9
+Mod 22 = 11
+Mod 23 = 0
+Mod 24 = 9
+Mod 25 = 20
+
+
+Number: 193725
+Sum of factors: 416640
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 4
+Mod 12 = 9
+Mod 13 = 12
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 10
+Mod 18 = 9
+Mod 19 = 1
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 15
+Mod 23 = 19
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 197505
+Sum of factors: 460800
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 9
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 16
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 4
+Mod 24 = 9
+Mod 25 = 5
+
+
+Number: 199485
+Sum of factors: 419328
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 6
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 13
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 7
+Mod 18 = 9
+Mod 19 = 4
+Mod 20 = 5
+Mod 21 = 6
+Mod 22 = 11
+Mod 23 = 6
+Mod 24 = 21
+Mod 25 = 10
+
+
+Number: 201825
+Sum of factors: 416640
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 1
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 8
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 1
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 1
+Mod 18 = 9
+Mod 19 = 7
+Mod 20 = 5
+Mod 21 = 15
+Mod 22 = 19
+Mod 23 = 0
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 202125
+Sum of factors: 426816
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 1
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 12
+Mod 18 = 3
+Mod 19 = 3
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 1
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 205065
+Sum of factors: 437760
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 3
+Mod 12 = 9
+Mod 13 = 3
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 11
+Mod 18 = 9
+Mod 19 = 17
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 3
+Mod 23 = 20
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 208845
+Sum of factors: 483840
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 10
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 16
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 21
+Mod 23 = 5
+Mod 24 = 21
+Mod 25 = 20
+
+
+Number: 210105
+Sum of factors: 449280
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 5
+Mod 12 = 9
+Mod 13 = 12
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 2
+Mod 18 = 9
+Mod 19 = 3
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 5
+Mod 23 = 0
+Mod 24 = 9
+Mod 25 = 5
+
+
+Number: 212625
+Sum of factors: 454272
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 6
+Mod 12 = 9
+Mod 13 = 10
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 6
+Mod 18 = 9
+Mod 19 = 15
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 17
+Mod 23 = 13
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 215325
+Sum of factors: 446400
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 5
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 6
+Mod 14 = 5
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 3
+Mod 18 = 9
+Mod 19 = 17
+Mod 20 = 5
+Mod 21 = 12
+Mod 22 = 11
+Mod 23 = 22
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 215985
+Sum of factors: 459648
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 3
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 0
+Mod 18 = 3
+Mod 19 = 12
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 15
+Mod 24 = 9
+Mod 25 = 10
+
+
+Number: 218025
+Sum of factors: 446400
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 3
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 5
+Mod 12 = 9
+Mod 13 = 2
+Mod 14 = 3
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 3
+Mod 22 = 5
+Mod 23 = 8
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 219765
+Sum of factors: 459648
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 7
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 6
+Mod 18 = 3
+Mod 19 = 11
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 7
+Mod 23 = 0
+Mod 24 = 21
+Mod 25 = 15
+
+
+Number: 223965
+Sum of factors: 464640
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 5
+Mod 12 = 9
+Mod 13 = 1
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 7
+Mod 18 = 9
+Mod 19 = 12
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 5
+Mod 23 = 14
+Mod 24 = 21
+Mod 25 = 15
+
+
+Number: 225225
+Sum of factors: 541632
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 9
+Mod 18 = 9
+Mod 19 = 18
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 9
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 227205
+Sum of factors: 471744
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 6
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 4
+Mod 14 = 13
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 3
+Mod 20 = 5
+Mod 21 = 6
+Mod 22 = 11
+Mod 23 = 11
+Mod 24 = 21
+Mod 25 = 5
+
+
+Number: 229425
+Sum of factors: 476160
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 6
+Mod 10 = 5
+Mod 11 = 9
+Mod 12 = 9
+Mod 13 = 1
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 10
+Mod 18 = 15
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 9
+Mod 23 = 0
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 230265
+Sum of factors: 494208
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 2
+Mod 12 = 9
+Mod 13 = 9
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 4
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 13
+Mod 23 = 12
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 234465
+Sum of factors: 492480
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 6
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 10
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 1
+Mod 18 = 15
+Mod 19 = 5
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 3
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 235125
+Sum of factors: 486720
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 2
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 7
+Mod 14 = 9
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 15
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 9
+Mod 22 = 11
+Mod 23 = 19
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 235305
+Sum of factors: 487872
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 4
+Mod 12 = 9
+Mod 13 = 5
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 8
+Mod 18 = 9
+Mod 19 = 9
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 15
+Mod 23 = 15
+Mod 24 = 9
+Mod 25 = 5
+
+
+Number: 237405
+Sum of factors: 492480
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 3
+Mod 12 = 9
+Mod 13 = 12
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 0
+Mod 18 = 3
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 3
+Mod 23 = 22
+Mod 24 = 21
+Mod 25 = 5
+
+
+Number: 239085
+Sum of factors: 552960
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 2
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 14
+Mod 18 = 9
+Mod 19 = 8
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 0
+Mod 24 = 21
+Mod 25 = 10
+
+
+Number: 241605
+Sum of factors: 524160
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 1
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 1
+Mod 18 = 9
+Mod 19 = 1
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 1
+Mod 23 = 13
+Mod 24 = 21
+Mod 25 = 5
+
+
+Number: 244125
+Sum of factors: 519168
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 2
+Mod 12 = 9
+Mod 13 = 11
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 5
+Mod 18 = 9
+Mod 19 = 13
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 13
+Mod 23 = 3
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 245385
+Sum of factors: 524160
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 8
+Mod 12 = 9
+Mod 13 = 10
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 7
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 19
+Mod 23 = 21
+Mod 24 = 9
+Mod 25 = 10
+
+
+Number: 246645
+Sum of factors: 524160
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 3
+Mod 12 = 9
+Mod 13 = 9
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 9
+Mod 18 = 9
+Mod 19 = 6
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 3
+Mod 23 = 16
+Mod 24 = 21
+Mod 25 = 20
+
+
+Number: 248625
+Sum of factors: 511056
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 6
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 3
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 13
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 10
+Mod 20 = 5
+Mod 21 = 6
+Mod 22 = 3
+Mod 23 = 18
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 250425
+Sum of factors: 535680
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 10
+Mod 12 = 9
+Mod 13 = 6
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 15
+Mod 18 = 9
+Mod 19 = 5
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 21
+Mod 23 = 1
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 250965
+Sum of factors: 527040
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 1
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 1
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 11
+Mod 18 = 9
+Mod 19 = 13
+Mod 20 = 5
+Mod 21 = 15
+Mod 22 = 11
+Mod 23 = 12
+Mod 24 = 21
+Mod 25 = 15
+
+
+Number: 252945
+Sum of factors: 554112
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 4
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 2
+Mod 18 = 9
+Mod 19 = 17
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 14
+Mod 24 = 9
+Mod 25 = 20
+
+
+Number: 255645
+Sum of factors: 524160
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 5
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 5
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 5
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 16
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 12
+Mod 22 = 5
+Mod 23 = 0
+Mod 24 = 21
+Mod 25 = 20
+
+
+Number: 257985
+Sum of factors: 579348
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 2
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 10
+Mod 18 = 9
+Mod 19 = 3
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 13
+Mod 23 = 17
+Mod 24 = 9
+Mod 25 = 10
+
+
+Number: 258825
+Sum of factors: 535680
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 6
+Mod 12 = 9
+Mod 13 = 8
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 0
+Mod 18 = 3
+Mod 19 = 7
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 17
+Mod 23 = 6
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 260865
+Sum of factors: 539136
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 3
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 7
+Mod 14 = 3
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 14
+Mod 20 = 5
+Mod 21 = 3
+Mod 22 = 11
+Mod 23 = 22
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 263925
+Sum of factors: 535680
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 4
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 2
+Mod 12 = 9
+Mod 13 = 12
+Mod 14 = 11
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 15
+Mod 20 = 5
+Mod 21 = 18
+Mod 22 = 13
+Mod 23 = 0
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 266805
+Sum of factors: 591318
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 6
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 7
+Mod 18 = 9
+Mod 19 = 7
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 5
+Mod 24 = 21
+Mod 25 = 5
+
+
+Number: 268065
+Sum of factors: 569088
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 6
+Mod 12 = 9
+Mod 13 = 5
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 9
+Mod 18 = 9
+Mod 19 = 13
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 17
+Mod 23 = 0
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 269325
+Sum of factors: 600160
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 1
+Mod 12 = 9
+Mod 13 = 4
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 11
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 1
+Mod 23 = 18
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 271425
+Sum of factors: 571392
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 11
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 3
+Mod 18 = 3
+Mod 19 = 10
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 2
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 272745
+Sum of factors: 561600
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 4
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 5
+Mod 14 = 11
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 14
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 18
+Mod 22 = 11
+Mod 23 = 11
+Mod 24 = 9
+Mod 25 = 20
+
+
+Number: 273105
+Sum of factors: 589440
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 8
+Mod 12 = 9
+Mod 13 = 1
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 18
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 19
+Mod 23 = 3
+Mod 24 = 9
+Mod 25 = 5
+
+
+Number: 274365
+Sum of factors: 594048
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 3
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 2
+Mod 18 = 9
+Mod 19 = 5
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 3
+Mod 23 = 21
+Mod 24 = 21
+Mod 25 = 15
+
+
+Number: 276705
+Sum of factors: 576576
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 2
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 9
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 13
+Mod 18 = 9
+Mod 19 = 8
+Mod 20 = 5
+Mod 21 = 9
+Mod 22 = 11
+Mod 23 = 15
+Mod 24 = 9
+Mod 25 = 5
+
+
+Number: 279825
+Sum of factors: 583296
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 6
+Mod 10 = 5
+Mod 11 = 7
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 5
+Mod 18 = 15
+Mod 19 = 12
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 7
+Mod 23 = 7
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 280665
+Sum of factors: 629568
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 8
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 12
+Mod 18 = 9
+Mod 19 = 16
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 19
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 283185
+Sum of factors: 599040
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 1
+Mod 12 = 9
+Mod 13 = 6
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 16
+Mod 18 = 9
+Mod 19 = 9
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 1
+Mod 23 = 9
+Mod 24 = 9
+Mod 25 = 10
+
+
+Number: 284445
+Sum of factors: 601920
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 7
+Mod 12 = 9
+Mod 13 = 5
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 1
+Mod 18 = 9
+Mod 19 = 15
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 7
+Mod 23 = 4
+Mod 24 = 21
+Mod 25 = 20
+
+
+Number: 284625
+Sum of factors: 584064
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 5
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 3
+Mod 14 = 5
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 11
+Mod 18 = 9
+Mod 19 = 5
+Mod 20 = 5
+Mod 21 = 12
+Mod 22 = 11
+Mod 23 = 0
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 285285
+Sum of factors: 645120
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 8
+Mod 18 = 3
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 16
+Mod 24 = 21
+Mod 25 = 10
+
+
+Number: 287385
+Sum of factors: 590976
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 6
+Mod 10 = 5
+Mod 11 = 10
+Mod 12 = 9
+Mod 13 = 7
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 0
+Mod 18 = 15
+Mod 19 = 10
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 21
+Mod 23 = 0
+Mod 24 = 9
+Mod 25 = 10
+
+
+Number: 288225
+Sum of factors: 615040
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 3
+Mod 12 = 9
+Mod 13 = 2
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 7
+Mod 18 = 9
+Mod 19 = 14
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 3
+Mod 23 = 12
+Mod 24 = 9
+Mod 25 = 0
+
+
+Number: 290745
+Sum of factors: 628992
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 4
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 11
+Mod 18 = 9
+Mod 19 = 7
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 15
+Mod 23 = 2
+Mod 24 = 9
+Mod 25 = 20
+
+
+Number: 293265
+Sum of factors: 624000
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 5
+Mod 12 = 9
+Mod 13 = 11
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 15
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 5
+Mod 23 = 15
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 294525
+Sum of factors: 696384
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 10
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 0
+Mod 18 = 9
+Mod 19 = 6
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 10
+Mod 24 = 21
+Mod 25 = 0
+
+
+Number: 296205
+Sum of factors: 612864
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 6
+Mod 10 = 5
+Mod 11 = 8
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 13
+Mod 17 = 14
+Mod 18 = 15
+Mod 19 = 14
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 19
+Mod 23 = 11
+Mod 24 = 21
+Mod 25 = 5
+
+
+Number: 297045
+Sum of factors: 628992
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 5
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 1
+Mod 12 = 9
+Mod 13 = 8
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 5
+Mod 17 = 4
+Mod 18 = 9
+Mod 19 = 18
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 1
+Mod 23 = 0
+Mod 24 = 21
+Mod 25 = 20
+
+
+Number: 299145
+Sum of factors: 623808
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 0
+Mod 12 = 9
+Mod 13 = 2
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 13
+Mod 18 = 3
+Mod 19 = 9
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 11
+Mod 23 = 7
+Mod 24 = 9
+Mod 25 = 20
+
+
+Number: 300105
+Sum of factors: 611520
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 1
+Mod 8 = 1
+Mod 9 = 0
+Mod 10 = 5
+Mod 11 = 3
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 1
+Mod 15 = 0
+Mod 16 = 9
+Mod 17 = 4
+Mod 18 = 9
+Mod 19 = 0
+Mod 20 = 5
+Mod 21 = 15
+Mod 22 = 3
+Mod 23 = 1
+Mod 24 = 9
+Mod 25 = 5
+
+
+Number: 301665
+Sum of factors: 632448
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 0
+Mod 8 = 1
+Mod 9 = 3
+Mod 10 = 5
+Mod 11 = 1
+Mod 12 = 9
+Mod 13 = 0
+Mod 14 = 7
+Mod 15 = 0
+Mod 16 = 1
+Mod 17 = 0
+Mod 18 = 3
+Mod 19 = 2
+Mod 20 = 5
+Mod 21 = 0
+Mod 22 = 1
+Mod 23 = 20
+Mod 24 = 9
+Mod 25 = 15
+
+
+Number: 302445
+Sum of factors: 628992
+Mod 1 = 0
+Mod 2 = 1
+Mod 3 = 0
+Mod 4 = 1
+Mod 5 = 0
+Mod 6 = 3
+Mod 7 = 3
+Mod 8 = 5
+Mod 9 = 0
+Mod 10
