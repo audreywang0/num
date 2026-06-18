@@ -31,12 +31,12 @@ def check_value(number, lower_factor_list, goal_value, i=0, omitted_factors=None
    # Case 1: Goal reached
     if goal_value == 0:
        return [omitted_factors]
-
-# too low
+   
+   # Case 2: Too low
     if goal_value<0:
         return []
 
-   # Case 2: No more factors to consider, failed
+   # Case 3: No more factors to consider, failed
     if i == len(lower_factor_list):
        return []
 
