@@ -11,7 +11,7 @@ def addFactors(num):
                 add+=i
             else:
                 add+=i+pair
-    return ad
+    return add
 
 for num in range (1, check_until, 2):
     sum = addFactors(num)
