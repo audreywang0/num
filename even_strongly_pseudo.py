@@ -10,7 +10,6 @@ def get_lower_factors(number):
    return lower_factor_list
 
 
-
 def sum_factors(number, lower_factor_list):
     total = 0
     for factor in lower_factor_list:
@@ -22,11 +21,9 @@ def sum_factors(number, lower_factor_list):
     return total
 
 
-
 def check_value(number, lower_factor_list, goal_value, i=0, omitted_factors=None):
     if omitted_factors == None:
        omitted_factors = [] # Initialize omittedFactors the first time the function runs (aka once for each number)
-
 
    # Case 1: Goal reached
     if goal_value == 0:
@@ -39,7 +36,6 @@ def check_value(number, lower_factor_list, goal_value, i=0, omitted_factors=None
    # Case 3: No more factors to consider, failed
     if i == len(lower_factor_list):
        return []
-
 
    # Current factor and its corresponding pair
     factor = lower_factor_list[i]
@@ -57,7 +53,6 @@ def check_value(number, lower_factor_list, goal_value, i=0, omitted_factors=None
        all_solutions += check_value(number, lower_factor_list, goal_value-factor
                                , i+1, omitted_factors+[factor])
 
-
    # Choice 2: Keep factor pair
    # Do not change goalValue or omittedFactors
     all_solutions += check_value(number, lower_factor_list, goal_value, i+1, omitted_factors)
@@ -69,6 +64,7 @@ for num in range(2, check_until, 2):
     lower_factor_list = get_lower_factors(num)
     factor_sum = sum_factors(num, lower_factor_list)
     goal_value = factor_sum-(2*num)
+
     results = check_value(num, lower_factor_list, goal_value, i=0)
     if results:
         print("Number:", num)
