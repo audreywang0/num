@@ -7,8 +7,6 @@ def get_proper_factors(number):
    proper_factor_list = []
    if number==1:
        return []
-   
-
    proper_factor_list.append(1)
    for i in range(2, int(number**0.5)+1):
     if number % i == 0:
@@ -21,11 +19,13 @@ def get_proper_factors(number):
             proper_factor_list.append(pair)
    return proper_factor_list
 
+
 def add_proper_factors(proper_factor_list):
     sum = 0
     for i in range (0, len(proper_factor_list)):
         sum+=proper_factor_list[i]
     return sum
+
 
 def test_deficient(factor):
 #    adds factors of the factor of n 
@@ -35,12 +35,14 @@ def test_deficient(factor):
    else:
       return False
 
+
 def get_lower_factors(number):
    lower_factor_list = []
    for i in range(1, int(number**0.5)+1):
        if number % i == 0:
            lower_factor_list.append(i)
    return lower_factor_list
+
 
 def sum_factors(number, lower_factor_list):
     total = 0
@@ -52,10 +54,10 @@ def sum_factors(number, lower_factor_list):
            total += factor + pair
     return total
 
+
 def check_value(number, lower_factor_list, goal_value, i=0, omitted_factors=None):
     if omitted_factors == None:
        omitted_factors = [] # Initialize omittedFactors the first time the function runs (aka once for each number)
-
 
    # Case 1: Goal reached
     if goal_value == 0:
@@ -68,7 +70,6 @@ def check_value(number, lower_factor_list, goal_value, i=0, omitted_factors=None
    # Case 3: No more factors to consider, failed
     if i == len(lower_factor_list):
        return []
-
 
    # Current factor and its corresponding pair
     factor = lower_factor_list[i]
@@ -86,12 +87,12 @@ def check_value(number, lower_factor_list, goal_value, i=0, omitted_factors=None
        all_solutions += check_value(number, lower_factor_list, goal_value-factor
                                , i+1, omitted_factors+[factor])
 
-
    # Choice 2: Keep factor pair
    # Do not change goalValue or omittedFactors
     all_solutions += check_value(number, lower_factor_list, goal_value, i+1, omitted_factors)
 
     return all_solutions
+
 
 def get_prime_factors(number):
     p=2
@@ -144,11 +145,3 @@ for num in range(3, check_until, 2):
                         else:
                             print("Omitted factors:", solution)
                     print("\n")
-
-
-
-
-# 1. get proper factors of n
-# 2. test if each proper factor is deficient
-# 3. test if n is non-deficient
-# 4. test if n is strongly pseudoperfect
