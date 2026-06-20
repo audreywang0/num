@@ -1,4 +1,4 @@
-# // Odd Strongly Pseudoperfect Numbers - Modular 3-25
+# Odd Strongly Pseudoperfect Numbers - Modular 3-25
 
 import re
 
