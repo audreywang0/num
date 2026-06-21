@@ -24,7 +24,6 @@ for i in range(1, 50):
         mersenne_num = (2**i) - 1
         if test_prime(mersenne_num) == True:
             mersenne_primes.append(mersenne_num)
-print(mersenne_primes)
 
 for num in re.findall(r"Number:\s*(\d+)", text):
     num = int(num)
